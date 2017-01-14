@@ -1,6 +1,3 @@
-# MemoryKeeper
-Simple application for remembering to do things on time.
-
 # Non-Profit App: The Memory Keeper!
 Simple application for remembering to do things on time, aimed to help disabled individuals.
 
