@@ -7,6 +7,18 @@ Unique situations...
   * Take insulin
   * Etc.
   
+# Version
+1.0.0
+
+# Tech
+ * Git - Best S/W versioning tool
+
+# Installation
+Task Reminder APK - Enjoy!
+ - Download the app from repo and install it on your device.
+
+** Open Source Software **
+  
 # Have Suggestions?
 This is a simple reminder app for iOS devices. I encourage your feedback to improve this application. If you have suggestions, please submit an "Issue" request at the top of this site. For contributions on further development, send an email to emilypmendez@gmail.com. 
 
